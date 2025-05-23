@@ -5,7 +5,7 @@ metadata:
   description: Time displaying function.
   annotations:
      github.com/project-slug: neerajkheria/python-app
-  #   backstage.io/techdocs-ref: dir:.
+     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   owner: development
